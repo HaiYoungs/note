@@ -195,7 +195,7 @@ export default {
 
 <style scoped>
 .main {
-    padding: 95px 0 10px 0;
+    padding: 10px 0;
 }
 .main li {
     display: flex;
