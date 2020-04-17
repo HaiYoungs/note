@@ -1,16 +1,18 @@
 # note
 
-## Project setup
+[线上预览](https://haiyoungs.github.io/note/dist)
+
+## 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
